@@ -1,0 +1,39 @@
+
+
+.button {
+    font-weight: 700;
+    border-radius: 11px;
+    border-bottom: 7px solid #346136ab;
+    padding: 1rem 1.5rem;
+    
+}
+
+.button.primary:hover{
+    transition: 0.5s ease-in-out,;
+    background-color: rgb(156, 255, 159);
+    
+}
+
+.button.primary{
+    background-color: var(--verde-button);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1125px;
+}
+
+.button.secondary{
+    background-color: #ebc805;
+    border-bottom: 7px solid yellowgreen;
+    display: flex;
+    padding: 1rem 3rem;
+    margin-top: 80px;
+    
+}
+
+.button.secondary:hover{
+    transition: 0.5s;
+    background-color: yellow;
+    border-bottom:7px solid red ;
+}

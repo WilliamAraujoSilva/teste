@@ -1,0 +1,21 @@
+.container-header {
+    display: flex;
+    width: 100vw;
+    background-color: var(--amarelo);
+    justify-content: center;
+    align-items: center;
+    padding: 0px 30px;
+    box-shadow: outset 1px -3px 20px 0px #413b00
+    
+    
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1125px;
+    
+}
+

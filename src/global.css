@@ -1,0 +1,24 @@
+:root {
+  --amarelo:#F5DB13 ;
+  --amarelo-gradiente:linear-gradient(180deg, rgba(245,219,19,1) 0%, rgba(245,219,19,1) 50%, rgba(242,184,7,1) 100%); ;
+  --preto:#000000;
+  --branco:#ffffff;
+  --verde-button:#73D677;
+}
+
+*{
+  color: black;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+
+  
+  font-family: "Karla", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  
+}
+

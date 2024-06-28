@@ -1,0 +1,28 @@
+.texto-container{
+    display: flex;
+    flex-direction:column ;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.textos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 1125px;
+}
+
+.titulo-home {
+    font-size: 72px;
+
+}
+
+.texto-home {
+    font-size: 32px;
+    margin-bottom: 54px;
+   
+}
+

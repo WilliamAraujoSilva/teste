@@ -1,0 +1,34 @@
+.error-container{
+    display: flex;
+    justify-content: center;
+    background: #D93E30;
+    height: 100vh;
+}
+
+.error-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    max-width: 1284px;
+}
+
+.error404 {
+
+    width: 100%;
+}
+
+.rocketTeam {
+    font-weight: 700;
+    color: #F2F2F2;
+    font-size: 48px;
+    align-items: center;
+    text-align: center;
+}
+
+.errorText {
+    font-weight: 700;
+    font-size: 48px;
+
+}
